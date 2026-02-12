@@ -427,7 +427,7 @@ class Main:
 		self.preview = Preview()
 
 		# audio 
-		self.music = pygame.mixer.Sound("assets/sound/music.wav")
+		self.music = pygame.mixer.Sound("assets/sound/music1.wav")
 		self.music.set_volume(0.05)
 		self.music.play(-1)
 
